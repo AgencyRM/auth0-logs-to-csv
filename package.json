@@ -10,7 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "auth0": "^0.8.2",
-    "comma-separated-values": "^3.6.4",
     "nconf": "^0.8.2",
     "request": "^2.67.0",
     "winston": "^2.1.1"
